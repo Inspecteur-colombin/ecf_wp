@@ -3,7 +3,7 @@ get_header();
 ?>
 
 
-
+<!-- about section --> 
 
  <section id="about">
       <div class="container">
@@ -22,6 +22,8 @@ get_header();
       </div>
     </section>
 
+    <!-- services section -->
+
     <section id="services" class="bg-light">
       <div class="container">
         <div class="row">
@@ -32,6 +34,8 @@ get_header();
         </div>
       </div>
     </section>
+
+    <!-- contact section -->
 
     <section id="contact">
       <div class="container">

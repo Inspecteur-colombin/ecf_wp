@@ -11,7 +11,7 @@
     </head>
     <body <?php body_class(); ?>>
 
-    <!-- Navigation -->
+    <!-- Navigation bar -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
       <div class="container">
         <a class="navbar-brand js-scroll-trigger" href="#page-top">Start Bootstrap</a>
